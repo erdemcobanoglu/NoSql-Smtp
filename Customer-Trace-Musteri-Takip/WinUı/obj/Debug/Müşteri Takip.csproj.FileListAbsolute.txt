@@ -1,0 +1,537 @@
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\WinUı.exe.manifest
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\WinUı.application
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\WinUı.exe
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\WinUı.pdb
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\Dapper.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\LiteDB.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.pdb
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.pdb
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\Dapper.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\LiteDB.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\WinUı.CustomerListForm.resources
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\WinUı.LoginForm.resources
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\WinUı.Properties.Resources.resources
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.GenerateResource.cache
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\WinUı.exe.licenses
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.CoreCompileInputs.cache
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\WinUı.exe.manifest
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\WinUı.application
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.CopyComplete
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\WinUı.exe
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\WinUı.pdb
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csprojResolveAssemblyReference.cache
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csprojResolveAssemblyReference.cache
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.CustomerListForm.resources
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.LoginForm.resources
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.Properties.Resources.resources
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.GenerateResource.Cache
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.exe.licenses
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.CoreCompileInputs.cache
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.exe
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.pdb
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\WinUı.exe.config
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\WinUı.exe.manifest
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\WinUı.application
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\WinUı.exe
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\WinUı.pdb
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Dapper.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\LiteDB.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.pdb
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.pdb
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Dapper.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\LiteDB.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.exe.manifest
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.application
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Dapper.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\LiteDB.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.pdb
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.pdb
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Dapper.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\LiteDB.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csprojResolveAssemblyReference.cache
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.CustomerListForm.resources
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.LoginForm.resources
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.Properties.Resources.resources
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.GenerateResource.cache
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.CoreCompileInputs.cache
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.CopyComplete
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.exe.config
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.exe.manifest
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.application
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.exe
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.pdb
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.exe.licenses
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.exe.manifest
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.application
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.exe
+C:\Users\hey\Documents\publishKlasör\CustomerTraceMarch 28\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.pdb
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.exe.config
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.exe.manifest
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.application
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.exe
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.pdb
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Dapper.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\LiteDB.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.pdb
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.pdb
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\Dapper.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\LiteDB.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csprojResolveAssemblyReference.cache
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.CustomerListForm.resources
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.LoginForm.resources
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\WinUı.Properties.Resources.resources
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.GenerateResource.cache
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.exe.licenses
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.CoreCompileInputs.cache
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.exe.manifest
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.application
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.CopyComplete
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.exe
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.pdb
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.exe.config
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.exe.manifest
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.application
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.exe
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\Müşteri Takip.pdb
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\Dapper.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\LiteDB.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.pdb
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.pdb
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\Dapper.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\LiteDB.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\WinUı.CustomerListForm.resources
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\WinUı.LoginForm.resources
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\WinUı.Properties.Resources.resources
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.GenerateResource.cache
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.exe.licenses
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.CoreCompileInputs.cache
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.exe.manifest
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.application
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csproj.CopyComplete
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.exe
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.pdb
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\obj\Debug\Müşteri Takip.csprojResolveAssemblyReference.cache
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\BusinessLogicLayer.dll.config
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\EntitiesLayer.dll.config
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\WinUı\bin\Debug\DataAccessLayer.dll.config

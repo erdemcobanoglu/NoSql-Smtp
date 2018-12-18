@@ -1,0 +1,49 @@
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\bin\Debug\LiteDB.dll
+C:\Users\hey\Documents\filmSitesi\CustomerTrace\DataAccessLayer\bin\Debug\LiteDB.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\LiteDB.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\LiteDB.xml
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\dna\Desktop\müşteri takip\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\LiteDB.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\bin\Debug\LiteDB.xml
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\dna\Desktop\CustomerTraceMarch 27\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\bin\Debug\LiteDB.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\bin\Debug\LiteDB.xml
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hey\Desktop\Müşteri takip\CustomerTraceN,isan11\CustomerTrace\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
